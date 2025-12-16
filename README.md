@@ -6,13 +6,17 @@
 
 This repository demonstrates **K-Nearest Neighbors (KNN)** classification on the **Iris dataset**, focusing on **decision boundary visualization** for different values of `k` and distance metrics.
 
+---
+
 <!-- =============================================== -->
 <!--                     FEATURES                   -->
 <!-- =============================================== -->
 - Explore Iris dataset (Sepal Length & Sepal Width, Setosa vs Versicolor)  
 - Train KNN models with different values of `k`  
 - Visualize 2D decision boundaries  
-- Compare Euclidean vs Manhattan distance  
+- Compare Euclidean vs Manhattan distance
+
+---
 
 <!-- =============================================== -->
 <!--                   HOW TO RUN                   -->
@@ -27,6 +31,8 @@ pip install -r requirements.txt
 jupyter notebook notebooks/knn_iris.ipynb
 4.Run all cells to see data exploration, KNN models, and decision boundary visualizations.
 
+---
+
 <!-- =============================================== -->
 <!--                  REQUIREMENTS                   -->
 <!-- =============================================== -->
@@ -37,7 +43,7 @@ jupyter notebook notebooks/knn_iris.ipynb
 - matplotlib
 - scikit-learn
 
-
+---
 
 <!-- =============================================== -->
 <!--                  OBSERVATIONS                   -->
