@@ -25,12 +25,19 @@ This repository demonstrates **K-Nearest Neighbors (KNN)** classification on the
 git clone https://github.com/Rsandeep07/KNN-iris-decision-boundary-task1.git
 cd knn-iris-decision-boundary
 ```
+--- 
 
 2.Install dependencies:
+```bash
 pip install -r requirements.txt
+```
+--- 
 
 3.Open the notebook:
 jupyter notebook notebooks/knn_iris.ipynb
+
+---
+
 4.Run all cells to see data exploration, KNN models, and decision boundary visualizations.
 
 ---
