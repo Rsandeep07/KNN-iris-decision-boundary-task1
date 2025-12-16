@@ -23,7 +23,8 @@ This repository demonstrates **K-Nearest Neighbors (KNN)** classification on the
 1. Clone the repository:
 ```bash
 git clone https://github.com/Rsandeep07/KNN-iris-decision-boundary-task1.git
-cd knn-iris-decision-boundary```
+cd knn-iris-decision-boundary
+```
 
 2.Install dependencies:
 pip install -r requirements.txt
