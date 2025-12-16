@@ -3,7 +3,6 @@
 <!-- =============================================== -->
 <!--                ABOUT THE REPOSITORY             -->
 <!-- =============================================== -->
-# KNN Iris Decision Boundary
 
 This repository demonstrates **K-Nearest Neighbors (KNN)** classification on the **Iris dataset**, focusing on **decision boundary visualization** for different values of `k` and distance metrics.
 
