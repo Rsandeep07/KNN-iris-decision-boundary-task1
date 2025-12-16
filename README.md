@@ -18,24 +18,23 @@ This repository demonstrates **K-Nearest Neighbors (KNN)** classification on the
 
 ---
 
-<!-- =============================================== -->
-<!--                   HOW TO RUN                   -->
-<!-- =============================================== -->
+<!-- =============================================== --> <!--  HOW TO RUN --> <!-- =============================================== -->
+
 1. Clone the repository:
 ```bash
 git clone https://github.com/Rsandeep07/KNN-iris-decision-boundary-task1.git
-cd knn-iris-decision-boundary
+cd knn-iris-decision-boundary```
+
 2.Install dependencies:
 pip install -r requirements.txt
+
 3.Open the notebook:
 jupyter notebook notebooks/knn_iris.ipynb
 4.Run all cells to see data exploration, KNN models, and decision boundary visualizations.
 
 ---
 
-<!-- =============================================== -->
-<!--                  REQUIREMENTS                   -->
-<!-- =============================================== -->
+<!-- =============================================== --> <!-- REQUIREMENTS --> <!-- =============================================== -->
 
 - Python 3.x
 - numpy
@@ -45,10 +44,7 @@ jupyter notebook notebooks/knn_iris.ipynb
 
 ---
 
-<!-- =============================================== -->
-<!--                  OBSERVATIONS                   -->
-<!-- =============================================== -->
-
+<!-- =============================================== --> <!-- OBSERVATIONS --> <!-- =============================================== -->
 - Small k -> jagged boundaries, may overfit
 - Large k -> smooth boundaries, may underfit
 - Euclidean -> circular neighborhoods
